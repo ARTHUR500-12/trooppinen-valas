@@ -1,0 +1,19 @@
+# Formato: chave=valor
+# Inglês -> Português
+protect port=proteger porta 
+shuffle port=embaralhar porta
+show ports=mostrar portas
+activate ghost=ativar fantasma
+deactivate ghost=desativar fantasma
+read log=ler log
+learn attacks=aprender ataques
+metamorphose every=metamorfosear a cada
+isolate "=isolar "
+monitor "=monitorar "
+connect to "=conectar a "
+exchange defenses every=trocar defesas a cada
+load "=carregar "
+help=ajuda
+version=versao
+quit=sair
+exit=sair

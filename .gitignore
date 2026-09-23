@@ -1,0 +1,10 @@
+*.o
+*.pid
+nucleo
+nucleo_backup
+watchdog
+*.log
+testes_auto/
+relatorio_testes.html
+.DS_Store
+Thumbs.db
