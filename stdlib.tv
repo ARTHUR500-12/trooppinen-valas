@@ -1,0 +1,3 @@
+exibir "Biblioteca padrao da Trooppinen Valas carregada.";
+exibir "Use 'ajuda' para ver os comandos disponiveis.";
+exibir "Use 'versao' para ver a versao da linguagem.";
